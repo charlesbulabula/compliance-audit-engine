@@ -128,4 +128,4 @@ async def compliance_score(framework: str) -> ComplianceScore:
         passed=passed, failed=failed, suppressed=suppressed, by_severity=by_sev,
     )
 
-# _r 20260601100714-43e915f7
+# _r 20260610103415-3617d0ea
