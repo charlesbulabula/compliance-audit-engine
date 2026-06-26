@@ -149,4 +149,4 @@ class AWSConfigScanner:
         logger.info("Scan complete: %d total findings across %d rules", len(all_findings), len(noncompliant_rules))
         return all_findings
 
-# _r 20260622144612-f9af9a19
+# _r 20260626105115-8f076d51
