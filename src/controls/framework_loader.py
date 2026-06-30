@@ -87,4 +87,4 @@ class FrameworkLoader:
     def get_controls_by_tag(self, framework_name: str, tag: str) -> list[Control]:
         return [c for c in self.load(framework_name).values() if tag in c.tags]
 
-# _r 20260630134413-f343ee61
+# _r 20260630145511-ccc1935b
